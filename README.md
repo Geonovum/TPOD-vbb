@@ -1,2 +1,2 @@
 # TPOD-vbb
-TPOD Voorbeeldbestanden
+Deze repository bevat de TPOD Voorbeeldbestanden
